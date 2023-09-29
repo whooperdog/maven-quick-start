@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------< clinic.programmming:maven-quick-start >----------------
+[INFO] Building maven-quick-start 1.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.6.0:tree (default-cli) @ maven-quick-start ---
+[INFO] clinic.programmming:maven-quick-start:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.13.0:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.317 s
+[INFO] Finished at: 2023-09-22T14:34:05-04:00
+[INFO] ------------------------------------------------------------------------
